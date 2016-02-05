@@ -1,7 +1,8 @@
 #pragma once
 
 // Helper to convert UTF-8 encoded std::string to std::wstring on Windows platforms
-// (c) 2016, Florian Muecke
+// (c) 2016, Florian Muecke (MIT License)
+// https://github.com/fmuecke/utf8cpp
 
 #include <Windows.h>
 #include <memory>
